@@ -24,3 +24,5 @@ Top Genres: A bar chart of the top 10 genres, providing insights into the most p
 5.Content Distribution:
  Movies vs. TV Shows: A pie chart depicting the proportion of movies to TV shows, giving a quick overview of content type distribution.
  Yearly Trends: An area chart showing the trend of content additions over the years, highlighting growth patterns.
+
+
